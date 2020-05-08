@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WordQuizGame</string>
+    <string name="in_fight_battle">In Fight Battle</string>
+    <string name="guess_animals_in_english_a_lphabet">Guess Animals in English A lphabet</string>
+    <string name="bird">BIRD</string>
+</resources>
